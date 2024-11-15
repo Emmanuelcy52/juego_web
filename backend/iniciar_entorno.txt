@@ -1,0 +1,2 @@
+iniciar el entrono virtual de python
+envt\Scripts\activate
